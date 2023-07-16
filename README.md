@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="hhjhj" width="80px"><br/>Movie-Database-API</h1>
+      <h1> <br/>Movie-Database-API</h1>
      </div>
 
 
